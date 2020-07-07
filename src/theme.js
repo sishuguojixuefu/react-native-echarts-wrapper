@@ -27,16 +27,17 @@ export function getTheme() {
         '            "#59d3e9",\n' +
         '            "#ac81f8",\n' +
         '            "#ffe748",\n' +
-        '            "#ef6c63"\n' +
+        '            "#ef6c63",\n' +
+        '            "#7fcf58"\n' +
         '        ],\n' +
         '        "backgroundColor": "rgba(252,252,252,0)",\n' +
         '        "textStyle": {},\n' +
         '        "title": {\n' +
         '            "textStyle": {\n' +
-        '                "color": "#666666"\n' +
+        '                "color": "#444444"\n' +
         '            },\n' +
         '            "subtextStyle": {\n' +
-        '                "color": "#999999"\n' +
+        '                "color": "#777777"\n' +
         '            }\n' +
         '        },\n' +
         '        "line": {\n' +
@@ -198,7 +199,8 @@ export function getTheme() {
         '                "#59d3e9",\n' +
         '                "#ac81f8",\n' +
         '                "#ffe748",\n' +
-        '                "#ef6c63"\n' +
+        '                "#ef6c63",\n' +
+        '                "#7fcf58"\n' +
         '            ],\n' +
         '            "label": {\n' +
         '                "normal": {\n' +
@@ -264,7 +266,7 @@ export function getTheme() {
         '            "axisLine": {\n' +
         '                "show": true,\n' +
         '                "lineStyle": {\n' +
-        '                    "color": "#d9d9d9"\n' +
+        '                    "color": "#666666"\n' +
         '                }\n' +
         '            },\n' +
         '            "axisTick": {\n' +
@@ -276,7 +278,7 @@ export function getTheme() {
         '            "axisLabel": {\n' +
         '                "show": true,\n' +
         '                "textStyle": {\n' +
-        '                    "color": "#999999"\n' +
+        '                    "color": "#666666"\n' +
         '                }\n' +
         '            },\n' +
         '            "splitLine": {\n' +
@@ -301,7 +303,7 @@ export function getTheme() {
         '            "axisLine": {\n' +
         '                "show": true,\n' +
         '                "lineStyle": {\n' +
-        '                    "color": "#d9d9d9"\n' +
+        '                    "color": "#999999"\n' +
         '                }\n' +
         '            },\n' +
         '            "axisTick": {\n' +
@@ -375,7 +377,7 @@ export function getTheme() {
         '            "axisLine": {\n' +
         '                "show": true,\n' +
         '                "lineStyle": {\n' +
-        '                    "color": "#2118d9"\n' +
+        '                    "color": "#d9d9d9"\n' +
         '                }\n' +
         '            },\n' +
         '            "axisTick": {\n' +
@@ -394,7 +396,7 @@ export function getTheme() {
         '                "show": true,\n' +
         '                "lineStyle": {\n' +
         '                    "color": [\n' +
-        '                        "#f02916"\n' +
+        '                        "#f0f0f0"\n' +
         '                    ]\n' +
         '                }\n' +
         '            },\n' +
